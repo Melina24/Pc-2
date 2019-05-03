@@ -91,9 +91,18 @@ div {
            background-color:green; width: 12%;float: left;
            list-style-type: none; position: relative; }
 
-#subseccion1 { position: absolute; top: 60%; left: 0px;  
+#subseccion1 { position: absolute; top: 61%;left; 0px 
              background-color: gray; font:normal 0.8em arial;  
-             padding: 0.5em 0.5em ; display: none; }
+             padding: 0.8em 0.8em ; display: none; }
+
+
+#subseccion2 { position: absolute; top: 61%;left; 0px 
+             background-color: gray; font:normal 0.8em arial;  
+             padding: 0.8em 0.8em ; display: none; }
+
+#subseccion3 { position: absolute; top: 61%;right;5px 
+             background-color: gray; font:normal 0.8em arial;  
+             padding: 0.8em 0.8em ; display: none; }
 
 
 
